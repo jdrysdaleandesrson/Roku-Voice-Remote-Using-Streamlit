@@ -3,9 +3,6 @@ import os
 import time 
 import speech_recognition as sr
 
-
-
-
 IP = str(input("\nEnter Roku IP Address."))
 
 up ="curl -d '' \"http://"+IP+":8060/keypress/up\""
