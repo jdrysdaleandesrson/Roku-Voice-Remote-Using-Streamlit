@@ -64,17 +64,3 @@ switch_state = st.checkbox("Tick Box to Start")
 
 while switch_state:
     toggle()
-
-    
-
-
-            
-
-    
-
-
-
-
-
-
-    
